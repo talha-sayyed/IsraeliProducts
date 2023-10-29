@@ -1,0 +1,10 @@
+{
+    "Country_a": {
+        "Category1": ["Product_a", "Product_b"],
+        "Category2": ["Product_c", "Product_d"]
+    },
+    "Country_b": {
+        "Category3": ["Product_e", "Product_f"],
+        "Category4": ["Product_g"]
+    }
+}
