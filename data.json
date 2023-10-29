@@ -1,10 +1,186 @@
 {
-    "Country_a": {
-        "Category1": ["Product_a", "Product_b"],
-        "Category2": ["Product_c", "Product_d"]
+    "Israel": {
+        "Electronics": 
+        [
+            "HP", 
+            "Intel",
+            "Nokia",
+            "Motorola",
+            "IBM",
+            "BOSE"
+        ],
+        
+        "Cold drinks/beverages": 
+        [
+            "StarBucks",
+            "7Eleven",
+            "Coca-Cola", 
+            "Sprite", 
+            "Fanta", 
+            "Danta", 
+            "Thums Up", 
+            "Powderade", 
+            "Mello Yello", 
+            "Dasani", 
+            "Fresca",
+            "Minute Maid",
+            "Glaceau Smartwater",
+            "Hi-C",
+            "Fairlife",
+            "Honest Tea",
+            "Fuze",
+            "Fairlife"
+
+        ],
+        
+        "Drugs, Health, Medicine": 
+        [
+            "Teva Pharmaceuticals",
+            "CardiacSense Ltd",
+            "Super-Pharm",
+            "Teva Active Pharmaceutical Ingredients"
+        ],
+        
+        "Food & Dairy Products": 
+        [
+            "Nestle",
+            "SaraLee",
+            "Oreo",
+            "Toblerone",
+            "Kitkat",
+            "Sunkist",
+            "Milo",
+            "Hercheys",
+            "Nestle",
+            "Maggi",
+            "pringles",
+            
+            "L’Chaim Vodka",
+            "Landwer Coffee",
+            "Lone Tree Brewery",
+            "MacDavid",
+            "Max Brenner",
+            "Mey Eden",
+            "Neviot (Spring water)",
+            "Noblesse (cigarette)",
+            "Osem (company)",
+            "Rabl (company)",
+            "Strauss Group",
+            "Tara (Israel)",
+            "Tempo Beer Industries",
+            "Time (cigarette)",
+            "Tiv Ta’am",
+            "Tnuva",
+            "Vodka Perfect",
+            "Wissotzky Tea",
+            "Angel Bakeries",
+            "Bamba (Snack)",
+            "Berman’s Bakery",
+            "Bissli (Israeli wheat snack)",
+            "Carmel Agrexco",
+            "Carmel Winery",
+            "Cow Chocolate",
+            "Ein Gedi Mineral Water",
+            "Galilee Green",
+            "Klik (Candy)",
+            "Krembo"
+        ],
+        
+        "Clothing & Fashion Accessories": 
+        [
+            "Arsenal",
+            "CK Celvin Klein",
+            "Wrangler",
+            "Nike",
+            "Timberland",
+            "LEE",
+            "Levis",
+            "Reebock",
+            
+
+            "Source Sandals (Tekking and hiking sandals)",
+            "Elie Tahari",
+            "TNT (clothing)",
+            "Tzomet Sfarim",
+            "YVEL (Necklaces, Rings, Earrings, Bracelets)",
+            "Leibish & Co. (Natural fancy color diamonds Fine jewelry)",
+            "Cassidi",
+            "Castro",
+            "Fox (Clothing)",
+            "Gottex (Designer swimwear)",
+            "Honigman",
+            "Kenvelo",
+            "Naot (Shoes, sandals)"
+        ],
+        
+        "Fast Food Corners": 
+        [
+            "KFC",
+            "7Eleven",
+            "Pizza hut",
+            "McDonalds",
+            "Burger King",
+
+            "Product_c", 
+            "Product_d"
+        ],
+        
+        "TV Channels / Movies Production": 
+        [
+            "CNN",
+            "20th Century Studios", 
+            "20th Century Fox ",
+            "National Geographic",
+            "Walt Disney"
+        ],
+        
+        "Toys": 
+        [
+            "Barbie",
+            "Toys Rus"
+        ],
+        
+        "Banks": 
+        [
+            "Citibank", 
+        ],
+        
+        "Toiletry": 
+        [
+            "Oral-B", 
+            "Gillette",
+            "Colgate",
+            "Johnson and Johnson"
+
+        ],
+
+        "Skin care":
+        [
+            "Johnson and Johnson"
+        ],
+        
+        "Cars": 
+        [
+            "FORD", 
+            "CHEVROLETT"
+        ]
+
+
+
+
     },
-    "Country_b": {
-        "Category3": ["Product_e", "Product_f"],
-        "Category4": ["Product_g"]
+
+
+
+
+
+    "USA": {
+        "Category3": [
+            "Product_e", 
+            "Product_f"
+        ],
+        "Category4": [
+            "Product_g"
+        ]
     }
 }
